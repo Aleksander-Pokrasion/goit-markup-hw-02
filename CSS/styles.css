@@ -1,0 +1,7 @@
+.site-nav .link {
+  color: brown;
+}
+
+.site-nav .link.current {
+  color: #ffffff;
+}
